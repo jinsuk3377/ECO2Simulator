@@ -178,3 +178,14 @@ C:\Users\BSI_Lab\Desktop\DesignReview\DesignReview\ADR2013AppCS01\obj\x86\Debug\
 C:\Users\BSI_Lab\Desktop\DesignReview\DesignReview\ADR2013AppCS01\obj\x86\Debug\ADR2013AppCS01.csproj.GenerateResource.Cache
 C:\Users\BSI_Lab\Desktop\DesignReview\DesignReview\ADR2013AppCS01\obj\x86\Debug\ADR2013AppCS01.Form1.resources
 C:\Users\BSI_Lab\Desktop\DesignReview\DesignReview\ADR2013AppCS01\obj\x86\Debug\ADR2013AppCS01.csprojResolveAssemblyReference.cache
+F:\git\ADR2013AppCS01\obj\x86\Debug\Interop.AdCommon.dll
+F:\git\ADR2013AppCS01\obj\x86\Debug\Interop.ECompositeViewer.dll
+F:\git\ADR2013AppCS01\obj\x86\Debug\Interop.EPlotCore.dll
+F:\git\ADR2013AppCS01\obj\x86\Debug\Interop.EPlotModel.dll
+F:\git\ADR2013AppCS01\obj\x86\Debug\Interop.EPlotRenderer.dll
+F:\git\ADR2013AppCS01\obj\x86\Debug\Interop.EPlotViewer.dll
+F:\git\ADR2013AppCS01\obj\x86\Debug\Interop.ExpressViewerDll.dll
+F:\git\ADR2013AppCS01\obj\x86\Debug\AxInterop.ExpressViewerDll.dll
+F:\git\ADR2013AppCS01\obj\x86\Debug\ADR2013AppCS01.csproj.ResolveComReference.cache
+F:\git\ADR2013AppCS01\obj\x86\Debug\ADR2013AppCS01.exe
+F:\git\ADR2013AppCS01\obj\x86\Debug\ADR2013AppCS01.pdb
